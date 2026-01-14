@@ -108,6 +108,3 @@ All styles are in `css/style.css`. CSS variables are defined at the top for easy
 - Consider adding a database to store form submissions
 - Map integration placeholder is included in contact.php
 
-## License
-
-This project is provided as-is for educational and commercial use.
